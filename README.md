@@ -9,15 +9,3 @@ Read more about it in my [Blogpost](https://medium.com/@ktarun1681/diabetes-pred
 
 
 
-Installation
-
-Clone this repository and unzip it.
-
-1. After downloading, cd into the flask directory.
-
-2. Begin a new virtual environment with Python 3 and activate it.
-
-3. Install the required packages using pip install -r requirements.txt
-
-4. Execute the command: python app.py
-
