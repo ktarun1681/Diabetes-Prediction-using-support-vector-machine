@@ -8,4 +8,4 @@ Read more about it in my [Blogpost](https://medium.com/@ktarun1681/diabetes-pred
 ![image](https://user-images.githubusercontent.com/92631457/152490814-91d09a0a-47ad-40af-8270-82756f4db4e4.png)
 
 
-
+Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.
